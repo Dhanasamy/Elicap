@@ -1,0 +1,292 @@
+*{
+ margin: 0;
+ padding: 0;
+    overflow-x: hidden;
+}
+.toplogo{
+    background: url(Images/top%20logo.png);
+    height: 100px;
+    width:250px;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    float:left;
+}
+
+#details{
+    padding-top: 30px;
+    padding-bottom: 25px;
+}
+#details li{
+    display: inline;
+    position: relative;
+    margin-left: 30px;
+    color: white;
+	font-family: sans-serif;
+	font-size: 13px;
+	letter-spacing: 2px;
+}
+a:link{
+    text-decoration: none;
+}
+#details li:hover{
+    color: #981E32;
+}
+#help{
+    float: right;
+    margin-right: 30px;
+}
+.topcotainer{
+    background-color: #316082;
+    background: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)), url(Images/clouds-229.jpg);
+}
+.lineimage{
+    background-color: #104564;
+    position: relative;
+    height:27px;
+}
+.leftcontainer{
+    float:left; 
+    width:250px;
+}
+.man{
+    height: 80px;
+    margin-left: 20px;
+    margin-top: 20px;
+    background-color: #fffff7;
+}
+#m1{
+    margin-top: 20px;
+    margin-left: 80px;
+    letter-spacing: 3px;
+	font-family: sans-serif;
+	font-size: 15px;
+}
+#m2{
+    margin-left: 90px;
+    margin-top: 5px;
+}
+#m3{
+    margin-left: 20px;
+}
+.taskbar{
+    background-color: #981E32;
+    height:3450px;
+    overflow: hidden;
+}
+#t1{
+    height:300px;
+	display: block;
+}
+#t1 li{
+    border: 1px solid #790D1F;  
+    padding: 20px;
+	font-family: sans-serif;
+	letter-spacing: 2px;
+	font-size: 15px;
+    color: white;
+    background-color: #891528;
+	font-weight: 500;
+}
+.t2{
+    float: right;
+}
+.r1{
+    text-align: center;
+}
+.rightcontainer{
+    margin-top: 100px;
+    
+}
+.r1 h1{
+    letter-spacing: 6px;
+    font-size: 50px;
+    color: #BBB7B7;
+	font-family: sans-serif;
+}
+.r1 p{
+    color: #BBBBBB;
+    letter-spacing: 2px;
+	font-size: 17px;
+}
+.arrow1{
+    text-align: center;
+    margin-top: 100px;
+}
+#drop1{
+	display: none;
+}
+.d1{
+    margin-top: 75px;
+    text-align: center;
+}
+.d1 h1{
+    letter-spacing: 3px;
+	font-size: 40px;
+	font-family: sans-serif;
+}
+.d1 p{
+    color: #8A8A8A;
+    letter-spacing: 2px;
+	font-size: 16px;
+}
+.d2 img{
+    width:150px;
+    height: 120px;
+}
+.d21{
+    margin-top: 40px;
+}
+.d2{
+    width:400px;
+    float: left;
+    text-align: center;
+    height:950px;
+}
+.d3{
+    width:300px;
+    float: left;
+    text-align: center;
+    height:950px;
+}
+.d3 img{
+    width:150px;
+    height: 120px;
+}
+.d31{
+    margin-top: 40px;  
+}
+.d4{
+    width:350px;
+    float: right;
+    text-align: center;
+    height:950px;
+}
+.d4 img{
+    width:150px;
+    height: 120px;
+}
+.d41{
+    margin-top: 40px;
+}
+.arrow2{
+   text-align: center;
+   margin-top: 50px;
+}
+#drop2{
+	display: none;
+}
+.dd0{
+    margin-top: 75px;
+    text-align: center;
+}
+.dd0 h1{
+    letter-spacing: 3px;
+	font-size: 40px;
+	font-family: sans-serif;
+}
+.dd0 p{
+    color: #8A8A8A;
+    letter-spacing: 2px;
+	font-size: 16px;
+}
+.dd1{
+    margin-top: 40px;
+    height: 250px;
+}
+.dd2{
+    float: left;
+}
+.first{
+    float: left;
+    margin-left: 80px;
+	height: 70px;
+}
+.guide{
+    margin-left:80px;
+	width: 300px;
+}
+
+.dd21{
+    float: right;
+    margin-right: 75px;
+}
+.dd3{
+    margin-top: 40px;
+    height: 250px;
+}
+.dd4{
+    float: left;
+}
+.dd41{
+    float: right;
+    margin-right: 75px;
+}
+.dd5{
+    margin-top: 85px;
+    text-align: center;
+}
+.dd5 h1{
+    letter-spacing: 3px;
+	font-size: 40px;
+	font-family: sans-serif;
+}
+.dd5 p{
+    color: #8A8A8A;
+    letter-spacing: 2px;
+	font-size: 16px;
+}
+.dd6{
+    margin-top: 40px;
+    height: 250px;
+}
+.dd7{
+    float: left;
+}
+.dd71{
+    float: right;
+    margin-right: 75px;
+}
+.dd8{
+    margin-top: 40px;
+    height: 250px;
+}
+.dd9{
+    float: left;
+}
+.dd91{
+    float: right;
+    margin-right: 75px;
+}
+.footer{
+    text-align: center;
+    margin-top: 90px; 
+}
+#green{
+	height: 8px;
+}
+.d2 h6{
+    font-size: 15px;
+	font-family: sans-serif;
+}
+.d3 h6{
+    font-size: 15px;
+	font-family: sans-serif;
+}
+.d4 h6{
+    font-size: 15px;
+	font-family: sans-serif;
+}
+.h5{
+	color: #981E32;
+	font-family: sans-serif;
+	font-weight: bold;
+	font-size: 15px;
+}
+.h51{
+	font-size: 15px;
+}
+.h52{
+	font-size: 14px;
+	color: #8A8A8A;
+	letter-spacing: 1px;
+}
